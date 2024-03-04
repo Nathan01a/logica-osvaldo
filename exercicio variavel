@@ -1,16 +1,16 @@
-endereco
-telefone
-salario
-cpf
-preco
-temperatura
-casado
-nascimento
-vacinado
-preco_gasolina
-litros_gasolina
-preco_pao
-total_compras
-idade
-data_contrato
-nivel_escolaridade
+int endereco 
+int telefone (9)
+real salario 
+int cpf (11)
+real preco 
+int temperatura
+booleana casado (false)
+data nascimento (02/10/2008)
+booleana vacinado (true)
+real preco_gasolina (5,58)
+int litros_gasolina (1L)
+real preco_pao (5,00)
+real total_compras 
+int idade (15)
+data data_contrato 
+int nivel_escolaridade
